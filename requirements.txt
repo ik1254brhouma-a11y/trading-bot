@@ -1,6 +1,6 @@
 streamlit
 ccxt
-pandas
 numpy
+pandas
 scikit-learn
 
